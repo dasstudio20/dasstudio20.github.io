@@ -36,7 +36,7 @@
    ],
    "numTickToPing":20,
    "openCHPlay":1,
-   "serviceLog":"https://thatnhao.xyz/service1/api/log?data\u003d",
+   "serviceLog":"https://thatnhao.xyz/service1/api/log?data=",
    "serviceRank":"https://thatnhao.xyz/service1/api/rank/1",
    "serviceSettings":"https://dasstudio20.github.io/settings25521.json",
    "startViewRate_deltaTimeClickRateGameLater":{
