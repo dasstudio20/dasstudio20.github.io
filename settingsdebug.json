@@ -45,7 +45,7 @@
    "serviceSettings":"https://dasstudio20.github.io/settings35.json",
    "serviceSettingsBak":"",
    "startMinTimePlayToShowRank":1,
-   "startMinTimePlayToShowRecentGame":259200,
+   "startMaxTimePlayToShowRecentGame":259200,
    "startViewRate_deltaTimeClickRateGameLater":{
       "1":18000,
       "2":36000,
