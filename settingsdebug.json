@@ -44,7 +44,8 @@
    "serviceRanks":"https://thatnhao.xyz/service1/api/ranks/%s",
    "serviceSettings":"https://dasstudio20.github.io/settings35.json",
    "serviceSettingsBak":"",
-   "startButtonPlayCheckRecentGame":259200,
+   "startMinTimePlayToShowRank":259200,
+   "startMinTimePlayToShowRecentGame":259200,
    "startViewRate_deltaTimeClickRateGameLater":{
       "1":18000,
       "2":36000,
@@ -77,5 +78,5 @@
    "startViewRate_numBonusTime":5,
    "startViewRate_numHelpFree":10,
    "timeoutShowLoadingAds":3000,
-   "versionSettings":4
+   "versionSettings":5
 }
