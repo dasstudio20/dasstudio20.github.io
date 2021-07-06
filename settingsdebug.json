@@ -8,7 +8,7 @@
    "adsEnable":true,
    "adsType":"ads_unity",
    "adsType_AdMob":0,
-   "adsType_Fan":50,
+   "adsType_Fan":100,
    "gameOverShowViewAds_numBonusTime":1,
    "gameOverViewRate_level":4,
    "gameOverViewRate_numBonusTime":2,
@@ -22,7 +22,7 @@
    "gameViewPause_numTick":1000,
    "intervalCheckOnline":60,
    "intervalGetAllRanks":60,
-   "intervalGetSettings":60,
+   "intervalGetSettings":300,
    "intervalInterstitialClickPause":900,
    "intervalInterstitialGameOver":300,
    "isFanInterstitialPreload":true,
@@ -37,14 +37,14 @@
    "listLogTypeIgnore":[
       
    ],
-   "numTickToPing":10,
+   "numTickToPing":33,
    "openCHPlay":1,
    "serviceDevices":"https://thatnhao.xyz/service1/api/devices/%s",
    "serviceLogs":"https://thatnhao.xyz/service1/api/logs?data=",
-   "serviceRanks":"https://thatnhao.xyz/service1/api/ranks/%s",
+   "serviceRanks":"",
    "serviceSettings":"https://dasstudio20.github.io/settings35.json",
    "serviceSettingsBak":"",
-   "startMinTimePlayToShowRank":1,
+   "startMinTimePlayToShowRank":259200,
    "startMaxTimePlayToShowRecentGame":259200,
    "startViewRate_deltaTimeClickRateGameLater":{
       "1":18000,
@@ -78,5 +78,5 @@
    "startViewRate_numBonusTime":5,
    "startViewRate_numHelpFree":10,
    "timeoutShowLoadingAds":3000,
-   "versionSettings":7
+   "versionSettings":8
 }
