@@ -22,7 +22,7 @@
    "gameViewPause_numTick":1000,
    "intervalCheckOnline":60,
    "intervalGetAllRanks":60,
-   "intervalGetSettings":300,
+   "intervalGetSettings":120,
    "intervalInterstitialClickPause":900,
    "intervalInterstitialGameOver":300,
    "isFanInterstitialPreload":true,
@@ -37,10 +37,10 @@
    "listLogTypeIgnore":[
       
    ],
-   "numTickToPing":33,
+   "numTickToPing":10,
    "openCHPlay":1,
    "serviceDevices":"https://thatnhao.xyz/service1/api/devices/%s",
-   "serviceLogs":"https://thatnhao.xyz/service1/api/logs?data=",
+   "serviceLogs":"http://149.28.134.106:3000/service1/api/logs?data=",
    "serviceRanks":"",
    "serviceSettings":"https://dasstudio20.github.io/settings35.json",
    "serviceSettingsBak":"",
@@ -78,5 +78,5 @@
    "startViewRate_numBonusTime":5,
    "startViewRate_numHelpFree":10,
    "timeoutShowLoadingAds":3000,
-   "versionSettings":1
+   "versionSettings":2
 }
