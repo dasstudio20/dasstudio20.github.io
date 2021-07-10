@@ -37,7 +37,7 @@
    "listLogTypeIgnore":[
       
    ],
-   "numTickToPing":10,
+   "numTickToPing":33,
    "openCHPlay":1,
    "serviceDevices":"https://thatnhao.xyz/service1/api/devices/%s",
    "serviceLogs":"http://149.28.134.106:3000/service1/api/logs?data=",
