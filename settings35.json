@@ -22,7 +22,7 @@
    "gameViewPause_numTick":1000,
    "intervalCheckOnline":60,
    "intervalGetAllRanks":60,
-   "intervalGetSettings":120,
+   "intervalGetSettings":1200,
    "intervalInterstitialClickPause":900,
    "intervalInterstitialGameOver":300,
    "isFanInterstitialPreload":true,
@@ -78,5 +78,5 @@
    "startViewRate_numBonusTime":5,
    "startViewRate_numHelpFree":10,
    "timeoutShowLoadingAds":3000,
-   "versionSettings":2
+   "versionSettings":3
 }
