@@ -1,10 +1,10 @@
 {
    "adMob_appOpenAds_id":"ca-app-pub-1808433451356602/8746351305",
-   "adMob_appOpenAds_intervalLoadIfFailed":36000,
-   "adMob_appOpenAds_intervalShowOnStart":1800,
+   "adMob_appOpenAds_intervalLoadIfFailed":3600,
+   "adMob_appOpenAds_intervalShowOnStart":360,
    "adMob_interstitialAds_id":"ca-app-pub-1808433451356602/4846101912",
-   "adMob_interstitialAds_intervalLoadIfFailed":36000,
-   "adMob_interstitialAds_intervalShow":1800,
+   "adMob_interstitialAds_intervalLoadIfFailed":3600,
+   "adMob_interstitialAds_intervalShow":360,
    "adsEnable":true,
    "adsType":"ads_unity",
    "adsType_AdMob":0,
@@ -26,6 +26,7 @@
    "intervalInterstitialClickPause":900,
    "intervalInterstitialGameOver":300,
    "isFanInterstitialPreload":true,
+   "isCallOnRestoreInstanceState": false,
    "isHttp":true,
    "isHttpResponseLogToFirebase":true,
    "isHttpWhenOffline":false,
@@ -45,7 +46,7 @@
    "serviceSettings":"https://dasstudio20.github.io/settings35.json",
    "serviceSettingsBak":"",
    "startMinTimePlayToShowRank":259200,
-   "startMaxTimePlayToShowRecentGame":259200,
+   "startMaxTimePlayToShowRecentGame":604800,
    "startViewRate_deltaTimeClickRateGameLater":{
       "1":18000,
       "2":36000,
@@ -78,5 +79,5 @@
    "startViewRate_numBonusTime":5,
    "startViewRate_numHelpFree":10,
    "timeoutShowLoadingAds":3000,
-   "versionSettings":6
+   "versionSettings":8
 }
