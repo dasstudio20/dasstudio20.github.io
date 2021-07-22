@@ -1,14 +1,14 @@
 {
-   "adMob_appOpenAds_id":"ca-app-pub-1808433451356602/8746351305",
+   "adMob_appOpenAds_id":"",
    "adMob_appOpenAds_intervalLoadIfFailed":3600,
    "adMob_appOpenAds_intervalShowOnStart":600,
-   "adMob_interstitialAds_id":"ca-app-pub-1808433451356602/4846101912",
+   "adMob_interstitialAds_id":"",
    "adMob_interstitialAds_intervalLoadIfFailed":3600,
    "adMob_interstitialAds_intervalShow":600,
    "adsEnable":true,
    "adsType":"ads_unity",
    "adsType_AdMob":0,
-   "adsType_Fan":100,
+   "adsType_Fan":99,
    "gameOverShowViewAds_numBonusTime":1,
    "gameOverViewRate_level":4,
    "gameOverViewRate_numBonusTime":2,
@@ -71,5 +71,5 @@
    "startViewRate_numBonusTime":5,
    "startViewRate_numHelpFree":10,
    "timeoutShowLoadingAds":3000,
-   "versionSettings":1
+   "versionSettings":2
 }
