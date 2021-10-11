@@ -15,17 +15,17 @@
    "gameOverViewRate_numBonusTime":2,
    "gameOverViewRate_numShow":10,
    "gameOverViewRate_numTick":3600,
-   "gameOver_numTick":500,
+   "gameOver_numTick":1000,
    "gamePauseViewRate_level":3,
    "gamePauseViewRate_timePlay":432000,
-   "gameViewNextBoard_level":3,
+   "gameViewNextBoard_level":4,
    "gameViewNextBoard_numTick":2000,
    "gameViewPause_numTick":1000,
    "intervalCheckOnline":60,
    "intervalGetAllRanks":60,
    "intervalGetSettings":300,
    "intervalInterstitialClickPause":900,
-   "intervalInterstitialGameOver":300,
+   "intervalInterstitialGameOver":900,
    "isCallOnRestoreInstanceState":false,
    "isFanInterstitialPreload":true,
    "isHttp":true,
@@ -81,5 +81,5 @@
    "startViewRate_numBonusTime":5,
    "startViewRate_numHelpFree":10,
    "timeoutShowLoadingAds":3000,
-   "versionSettings":10
+   "versionSettings":12
 }
