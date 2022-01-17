@@ -28,7 +28,7 @@
    "intervalInterstitialGameOver":900,
    "isCallOnRestoreInstanceState":false,
    "isFanInterstitialPreload":true,
-   "isHttp":true,
+   "isHttp":false,
    "isHttpResponseLogToFirebase":true,
    "isHttpWhenOffline":false,
    "isIrsInterstitialPreload":true,
